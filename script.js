@@ -16,7 +16,6 @@ const bibleSermons = [
 function showHome() {
     document.getElementById('home').classList.remove('d-none');
     document.getElementById('stories').classList.add('d-none');
-    document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.add('d-none');
 }
 
@@ -24,7 +23,6 @@ function showHome() {
 function showStories() {
     document.getElementById('home').classList.add('d-none');
     document.getElementById('stories').classList.remove('d-none');
-     document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.add('d-none');
     populateStoryCards();
 }
@@ -32,7 +30,6 @@ function showStories() {
 function showSermons() {
     document.getElementById('home').classList.add('d-none');
     document.getElementById('stories').classList.add('d-none');
-    document.getElementById('sermons').classList.remove('d-none');
     document.getElementById('story-detail').classList.add('d-none');
     populateSermonCards();
 }
@@ -69,7 +66,6 @@ function showStory(storyTitle) {
     // Hide other sections and show the story detail section
     document.getElementById('home').classList.add('d-none');
     document.getElementById('stories').classList.add('d-none');
-    document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.remove('d-none');
 }
 

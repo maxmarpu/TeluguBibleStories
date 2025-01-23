@@ -28,6 +28,14 @@ function showStories() {
     document.getElementById('story-detail').classList.add('d-none');
     populateStoryCards();
 }
+// Function to show the Sermons section
+function showSermons() {
+    document.getElementById('home').classList.add('d-none');
+    document.getElementById('stories').classList.add('d-none');
+    document.getElementById('sermons').classList.remove('d-none');
+    document.getElementById('story-detail').classList.add('d-none');
+    populateSermonCards();
+}
 
 // Function to populate the story cards in the Stories section
 function populateStoryCards() {

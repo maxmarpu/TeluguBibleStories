@@ -69,6 +69,7 @@ function showStory(storyTitle) {
     // Hide other sections and show the story detail section
     document.getElementById('home').classList.add('d-none');
     document.getElementById('stories').classList.add('d-none');
+    document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.remove('d-none');
 }
 

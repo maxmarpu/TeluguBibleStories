@@ -6,11 +6,17 @@ const bibleStories = [
         fullContent: "యాకోబు కు 12 మంది కుమారులు ఒక కుమార్తె కలిగారు. కుమారులలో యోసేపు, బైన్యామీను చిన్నవారు. యాకోబుకు యోసేపు అంటే ఎక్కువ ప్రేమ. అతడు యోసేపుకు ఒక విచిత్రమైన నిలువుటంగీ కుట్టించాడు. యోసేపు తన అన్నలు చేసే చెడుపనులన్నీ తండ్రికి చెప్తుండేవాడు. కాబట్టి అన్నలు యోసేపుపై పగబట్టారు. యోసేపు అన్నలు అడవిలో గొర్రెలు కాస్తూ వుండేవారు. యోసేపు వారి క్షేమ సమాచారము, తండ్రికి తెలియజేస్తుండేవాడు.యోసేపు ఒక కలగన్నాడు. ఆ కలలో అన్నదమ్ములందరు చేనిలో పనలు కడుతున్నారు. వాటిలో యోసేపు పన లేచి నిలబడింది. తక్కిన అన్నల పనలు ఆ పనకు సాష్టాంగపడి నమస్కరించాయి. ఈ కలను గురించి వినిన అన్నలు యోసేపు పై అసూయ పడ్డారు. కొన్ని దినముల తర్వాత యోసేపు యింకొక కలగన్నాడు. ఆ కలలో సూర్య చంద్రులు, పదకొండు నక్షత్రములు అతనికి సాష్టాంగపడటం చూశాడు. ఈ కలను గురించి విన్న అన్నలు ఎక్కువ అసూయ పడ్డారు. తండ్రి కోపపడ్డాడు - నేను, నీ తల్లి, అన్నలు నీకు సాష్టాంగపడతామా? అని గద్దించాడు.యాకోబు యోసేపును అతని అన్నల క్షేమం తెలిసికొని రమ్మని పంపాడు. వాళ్ళు అప్పుడు షెకెములో గొర్రెలు మేపుతున్నారు. అన్నలు దూరం నుండే యోసేపును చూసి “ఈ కలలుగనేవాడు వస్తున్నాడు. వీడిని యిక్కడే చంపి, గుంటలో పడవేసి, ఏదో క్రూరమృగం తినివేసిందని చెప్తే సరిపోతుంది” అని మాట్లాడుకొన్నారు. కాని పెద్దవాడైన రూబేను - వీడిని చంపడం ఎందుకు. బాగా కొట్టి గుంటలో పడవేద్దాము అన్నాడు. వారు యోసేపు యొక్క నిలువు టంగీని లాగివేసి, అతనిని గుంటలో పడేశారు. వారు భోజనం చేస్తున్న సమయంలో ఆ మార్గంలో ఐగుప్న దేశం వెళ్తున్న వ్యాపారసస్థలు కనిపించారు. అన్నలు యోసేపును ఆ వ్యాపారస్థులకు 20 తులముల వెండికి అమ్మివేశారు. తర్వాత వేరొక మేక పిల్లను చంపి, దాని రక్తంతో యోసేపు అంగీని ముంచి, తండ్రికి తెచ్చి చూపించారు. అంగీని చూసిన యాకోబు తన కుమారుణ్ణి దుష్ట మృగం తిని వేసిందనుకొన్నాడు. యాకోబు తన ప్రియ కుమారుడు యోసేపు కోసం చాలా రోజులు దుఃఖించాడు. వ్యాపారస్తులు యోసేపును తమ వెంట ఐగుప్తు దేశం తీసికొని వెళ్ళారు. అక్కడ ఫరో చక్రవర్తికి రాజ సంరక్షక సేనాపతి అయిన ఫోతీఫరుకు అతనిని అమ్మివేశారు. ధ్యానాంశములు :1.యాకోబు రాహేలును ఎక్కువగా ప్రేమించాడు.ఆమెకు పుట్టిన కుమారులు యో సేపు బెన్యామీనులను కూడ చాలా ఎక్కువగా ప్రేమించాడు. అందుకే యోసేపు దుష్టమృగం చేతిలో చనిపోయాడనుకొని చాలా రోజులు బాధపడ్డాడు 2.యోసేపు చాలా మంచివాడు, నమ్మకమైనవాడు 3.యోసేపు ముందుగా ఐగుప్తుకు వెళ్ళాడు. తర్వాత యాకోబు కుటుంబం అంతా ఐగుప్తుకువెళ్ళటం జరిగింది", imageUrl: "thats-not-what-i-expected-the-story-of-josephs-clothes_833_460_80_c1.jpg" },
     { title: "David and Goliath", shortDesc: "The incredible story of David's triumph over Goliath.", fullContent: "David, a young shepherd, defeated Goliath with only a stone and his faith in God...", imageUrl: "https://via.placeholder.com/350" }
 ];
+const bibleSermons = [
+    { title: "The Power of Prayer", speaker: "Pastor John", summary: "Understanding the significance of prayer in our daily lives.", imageUrl: "https://via.placeholder.com/350" },
+    { title: "Faith That Moves Mountains", speaker: "Pastor Sarah", summary: "How strong faith can overcome any obstacle.", imageUrl: "https://via.placeholder.com/350" },
+    { title: "Living in God's Grace", speaker: "Pastor Mike", summary: "A sermon on living a life of grace and humility.", imageUrl: "https://via.placeholder.com/350" }
+];
 
 // Function to show the Home section
 function showHome() {
     document.getElementById('home').classList.remove('d-none');
     document.getElementById('stories').classList.add('d-none');
+    document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.add('d-none');
 }
 
@@ -18,6 +24,7 @@ function showHome() {
 function showStories() {
     document.getElementById('home').classList.add('d-none');
     document.getElementById('stories').classList.remove('d-none');
+     document.getElementById('sermons').classList.add('d-none');
     document.getElementById('story-detail').classList.add('d-none');
     populateStoryCards();
 }

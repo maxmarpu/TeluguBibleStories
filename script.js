@@ -73,10 +73,10 @@ function searchStories() {
 // Function to display a random Daily Bible Verse
 function getDailyVerse() {
     const verses = [
-        "For God so loved the world, that he gave his only Son. - John 3:16",
-        "The Lord is my shepherd; I shall not want. - Psalm 23:1",
-        "I can do all things through Christ who strengthens me. - Philippians 4:13",
-        "Trust in the Lord with all your heart and lean not on your own understanding. - Proverbs 3:5"
+        "నిన్ను ఆశ్రయించువారందరు సంతోషించుదురునీవే వారిని కాపాడుదువు గనుక వారు నిత్యముఆనందధ్వని చేయుదురు.కీర్తనల గ్రంథము 5:11",
+        "కన్నీళ్లు విడుచుచు విత్తువారు సంతోషగానముతో పంట కోసెదరు.కీర్తనల గ్రంథము 126:5",
+        "దేవుని రాజ్యము భోజన మును పానమును కాదు గాని, నీతియు సమాధానమును పరిశుద్ధాత్మయందలి ఆనందమునై యున్నది.రోమీయులకు 14:17",
+        "యెహోవాయందు భయభక్తులు కలిగి ఆయన త్రోవలయందు నడుచువారందరు ధన్యులు. నిశ్చయముగా నీవు నీ చేతుల కష్టార్జితము ననుభవించె దవు నీవు ధన్యుడవు నీకు మేలు కలుగును.కీర్తనల గ్రంథము 128:1, 2"
     ];
     const randomIndex = Math.floor(Math.random() * verses.length);
     document.getElementById('verse-text').innerText = verses[randomIndex];

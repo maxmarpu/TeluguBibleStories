@@ -70,7 +70,7 @@ function searchStories() {
         } else {
             card.classList.add('d-none');
         }
-    }
+    };
 }
 
 // Function to display a random Daily Bible Verse

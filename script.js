@@ -41,6 +41,7 @@ function populateStoryCards() {
                     <button class="btn btn-primary" onclick="showStory('${story.title}')">Read More</button>
                 </div>
             </div>
+            ';
         storiesList.appendChild(storyCard);
     });
 }
